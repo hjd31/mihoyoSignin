@@ -1,0 +1,3 @@
+module HttpInterface {
+    requires SpringRainQmsg;
+}

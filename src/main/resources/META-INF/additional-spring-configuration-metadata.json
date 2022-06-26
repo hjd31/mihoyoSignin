@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "master.qq",
+      "type": "java.lang.String",
+      "description": "群聊随机涩图模块开关默认配置."
+    }
+  ] }
